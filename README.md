@@ -1,61 +1,50 @@
-## 👋 Hi, I'm Ruth!
+<h1 align="center">Hi 👋, I'm Ruthyoh</h1>
+<h3 align="center">A passionate developer and creative learner</h3>
 
-🎓 I'm currently a 3rd-semester Informatics Engineering student with a growing passion for software development, especially in web technologies.  
-I enjoy turning ideas into functional applications and learning new things along the way 🚀
-
----
-
-### 🛠 Tech Stack & Tools
-Here are some of the technologies I'm currently using or exploring:
-
-- 💻 Languages: `PHP`, `JavaScript`, `HTML`, `CSS`
-- ⚙️ Frameworks: `Laravel`, `Blade`, `Tailwind CSS`
-- 🗃 Databases: `MySQL`
-- 🧰 Tools: `VS Code`, `Git`, `GitHub`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79BD3&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects;Exploring+the+world+of+tech+%F0%9F%98%89" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📌 Highlight Project: JOGFOOD 🍜  
-A simple culinary recommendation website built for a class project (PBL).
-
-> 🔗 [View Repository](https://github.com/ruthyoh/jogfood)
-
-**What I learned:**
-- Building a full-stack Laravel app from scratch
-- Designing UI with Blade & Tailwind
-- Creating live search & category filters
-- Using Git and GitHub for version control
+### 🧰 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
 ---
 
-### 📚 Currently Learning
-- Object-Oriented Programming (Java & PHP)
-- Responsive design using Tailwind
-- Introduction to IoT 🌐
+### ✨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruthyoh&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthyoh&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthyoh&layout=compact&theme=radical" width="40%">
+</p>
 
 ---
 
-### 🎯 Goals for This Year
-- Build more personal projects to sharpen skills
-- Learn basic JavaScript frameworks (React or Vue)
-- Understand APIs and how to consume them
-- Join collaborative or open-source projects
+### 🗂️ Projects
+
+- 🔥 **[JOGFOOD](https://github.com/ruthyoh/JOGFOOD)** – Web-based culinary recommendation platform
+- 💬 **Smart Parking System** – IoT-based parking system for campus
+- 🎶 **Champion Music Course Website** – Admin dashboard & course management in Laravel
 
 ---
 
-### 💬 Fun Facts
-- I love helping others understand what I just learned 😄  
-- Outside of coding, I teach English & music to kids 🎵  
-- I believe learning is a lifelong adventure — and I’m just getting started!
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-link)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ruthyohna._/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ruthmanurung5112@gmail.com)
 
 ---
 
-### 📫 Let’s Connect!
-Feel free to reach out or check out my progress:
-- GitHub: [@ruthyoh](https://github.com/ruthyoh)
-- Email: yourname@email.com
-- LinkedIn: (optional)
+### ⚡ Fun Fact
+> _“I turn coffee ☕ into code 💻 and dreams into web apps!”_
 
---- 
-
-> _“Don’t compare your beginning to someone else’s middle. Keep building.”_ 
