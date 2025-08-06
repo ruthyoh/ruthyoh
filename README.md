@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruthyoh</h1>
-<h3 align="center"> Informatics Engineering at Politeknik Negeri Batam. REALLY LOVE LISTENING MUSIC</h3>
+<h3 align="center"> Informatics Engineering at Politeknik Negeri Batam.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79BD3&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
@@ -43,5 +43,6 @@
 ---
 
 ### ⚡ Fun Fact
-> _“I turn coffee ☕ into code 💻 and dreams into web apps!”_
+REALLY LOVE LISTENING MUSIC SO BADDDD
+I LOVE JUST THINKING IN MY BRAIN
 
