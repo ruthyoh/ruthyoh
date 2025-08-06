@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruthyoh</h1>
-<h3 align="center">A passionate developer and creative learner</h3>
+<h3 align="center"> Informatics Engineering at Politeknik Negeri Batam. REALLY LOVE LISTENING MUSIC</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79BD3&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects;Exploring+the+world+of+tech+%F0%9F%98%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F79BD3&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,9 +33,6 @@
 ### 🗂️ Projects
 
 - 🔥 **[JOGFOOD](https://github.com/ruthyoh/JOGFOOD)** – Web-based culinary recommendation platform
-- 💬 **Smart Parking System** – IoT-based parking system for campus
-- 🎶 **Champion Music Course Website** – Admin dashboard & course management in Laravel
-
 ---
 
 ### 📫 Let's Connect!
