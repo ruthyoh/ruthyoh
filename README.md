@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruthyoh</h1>
+<h1 align="center">Hi 👋, I'm Ruth Yohana</h1>
 <h3 align="center"> Informatics Engineering at Politeknik Negeri Batam.</h3>
 
 <p align="center">
